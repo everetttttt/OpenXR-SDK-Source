@@ -1,3 +1,6 @@
+## This fork of OpenXR's SDK source code is an attempt to better integrate additional props and trackers into the base SDK, rather than an extension that may or may not be supported fully
+
+
 # OpenXR™ Software Development Kit (SDK) Sources Project
 
 <!--
